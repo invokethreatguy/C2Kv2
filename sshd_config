@@ -35,4 +35,4 @@ TCPKeepAlive yes
 AcceptEnv LANG LC_*
 Subsystem sftp /usr/lib/openssh/sftp-server
 UsePAM yes
-AllowUsers itg
+AllowUsers YOUR_SSH_USERNAME
